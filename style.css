@@ -632,3 +632,10 @@ button{cursor:pointer}
   .about-parliament-card strong{font-size:14px;white-space:nowrap}
   .featured-media-panel{gap:6px}
 }
+.contact-address-label{
+  margin-bottom: -30px !important;
+  margin-top: 15px !important;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
